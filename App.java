@@ -32,4 +32,9 @@ public class App {
         System.out.println("Hello World");
         System.out.println("This is a test application");
     }
+
+    // Never-used function
+    public static void neverUsedFunction() {
+        System.out.println("This function is never called.");
+    }
 }
